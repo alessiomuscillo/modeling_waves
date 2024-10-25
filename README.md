@@ -8,5 +8,5 @@ In the dynamic landscape of contemporary society, the popularity of ideas, opini
 ## Keywords
 Idea diffusion; SIRS model; Popularity cycles; Google Trends analysis
 
-## Jel Classification codes: 
+## Jel Classification codes 
 C61 Dynamic Analysis – D83 Learning, Communication.
